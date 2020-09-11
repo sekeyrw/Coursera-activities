@@ -1,0 +1,2 @@
+# Coursera-activities
+Module assignments
